@@ -1,7 +1,7 @@
 ### Hello, I'm Antonio Souza!
 ##
 - 🔭 I’m currently working with Java
-- 🌱 I’m learning TypeScript
+- 🌱 I’m learning C/C++
 - 📫 How to reach me: antoniodesigner30@gmail.com
 - 😄 Pronouns: he/him
 ##
