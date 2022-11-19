@@ -2,7 +2,7 @@
 ##
 - 🔭 I’m currently working with Java
 - 🌱 I’m learning C/C++
-- 📫 How to reach me: antoniodesigner30@gmail.com
+- 📫 How to reach me: antoniodesenvolvedor@outlook.com
 - 😄 Pronouns: he/him
 ##
 <div align="center">
