@@ -1,7 +1,7 @@
 ### Hello, I'm Antonio Souza!
 ##
 - 🔭 I’m currently working with Java
-- 🌱 I’m learning C/C++
+- 🌱 I’m learning .NET Core
 - 📫 How to reach me: antoniodesenvolvedor@outlook.com
 - 😄 Pronouns: he/him
 ##
