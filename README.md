@@ -2,7 +2,7 @@
 ##
 - 🔭 I’m currently working with Java and C#
 - 🌱 I’m learning PHP
-- 📫 How to reach me: antoniodesigner30@gmail.com
+- 📫 How to reach me: antoniosouza.dev@gmail.com
 ##
 
 <h3>Tools</h3>
